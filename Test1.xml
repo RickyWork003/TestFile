@@ -26,5 +26,4 @@
             <entry name="algorithm" overwrite="true">MD5</entry>
             <entry name="available_algorithms" overwrite="true">MD5</entry>
         </section>
-
 </config>
