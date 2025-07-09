@@ -1,5 +1,4 @@
 <config xmlns="http://www.linphone.org/xsds/lpconfig.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.linphone.org/xsds/lpconfig.xsd lpconfig.xsd">
-
         <section name="auth_info_0" overwrite="true">
             <entry name="username" overwrite="true">2274837HPST</entry>
             <entry name="ha1" overwrite="true">fc1f029349441e5843eed63443f279e5</entry>
