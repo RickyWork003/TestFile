@@ -1,7 +1,11 @@
 <config xmlns="http://www.linphone.org/xsds/lpconfig.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.linphone.org/xsds/lpconfig.xsd lpconfig.xsd">
+        <section name="account_creator" overwrite="true">
+            <entry name="url">https://subscribe.linphone.org/api/</entry>
+        </section>
         <section name="auth_info_0" overwrite="true">
             <entry name="username">2274837HPST</entry>
             <entry name="password">834847300</entry>
             <entry name="domain">sip.cikbusiness.com</entry>
         </section>
+        
 </config>
