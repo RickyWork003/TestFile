@@ -26,8 +26,8 @@
                 <entry name="algorithm" overwrite="true">MD5</entry>
         </section>
         <section name="proxy_0" overwrite="true">
-                <entry name="reg_proxy" overwrite="true"><sip:sip.cikbusiness.com></entry>
-                <entry name="reg_route" overwrite="true"><sip:sip.cikbusiness.com></entry>
+                <entry name="reg_proxy" overwrite="true">sip.cikbusiness.com</entry>
+                <entry name="reg_route" overwrite="true">sip.cikbusiness.com</entry>
                 <entry name="reg_identity" overwrite="true">"Test101" <sip:2274837HPST@sip.cikbusiness.com></entry>
                 <entry name="realm" overwrite="true">sip.cikbusiness.com</entry>
                 <entry name="reg_expires" overwrite="true">31536000</entry>
